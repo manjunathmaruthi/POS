@@ -141,7 +141,7 @@ public class SetupView implements Initializable {
 
 	private String tab;
 
-	private SetupController<?> setup = new SetupController();
+	private SetupController setup = new SetupController();
 
 	/**********************/
 

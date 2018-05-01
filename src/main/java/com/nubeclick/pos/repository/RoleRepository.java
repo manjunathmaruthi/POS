@@ -8,7 +8,7 @@ import org.springframework.stereotype.Repository;
 import com.nubeclick.pos.dto.Role;
 
 @Repository
-public interface RoleRepository<R> extends CrudRepository<Role, Long> {
+public interface RoleRepository extends CrudRepository<Role, Long> {
 
 	List<Role> findByRoleDescription(String roleDescription);
 
