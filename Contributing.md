@@ -8,10 +8,10 @@ These are the project's contribution instructions. If there are any, follow them
 
 - Create a personal fork of the project on Github.
 - Clone the fork on your local machine. Your remote repo on Github is called `origin`.
-<hr>
-# Instructions on how to import GitHub Repository into *NetBeans* can be found ![here](https://netbeans.org/kb/docs/ide/git.html)
-# To import to Intellij please refer to ![this](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-from-GitHub)
-<hr>
+
+### Instructions on how to import GitHub Repository into *NetBeans* can be found ![here](https://netbeans.org/kb/docs/ide/git.html)
+### To import into *Intellij* please refer to ![this](https://www.jetbrains.com/help/idea/manage-projects-hosted-on-github.html#clone-from-GitHub)
+
 - Add the original repository as a remote called `upstream`.
 - If you created your fork a while ago be sure to pull upstream changes into your local repository.
 - Create a new branch to work on! Branch from `develop` if it exists, else from `master`.
